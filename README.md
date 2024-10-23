@@ -1,2 +1,3 @@
 # resumo-do-lab
-Este repositorio foi feito para o desafio Microsoft Azure - Localizando Serviços por Categoria.
+
+Repositorio para escrever resumos referente ao curso de cloud da DIO.
